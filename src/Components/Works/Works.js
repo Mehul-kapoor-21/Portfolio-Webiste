@@ -88,7 +88,7 @@ const Works = () => {
         </div>
         <div className="works-item">
         <a
-            href="https://https://mehulkapoor.netlify.app/"
+            href="https://mehulkapoor.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
@@ -96,7 +96,7 @@ const Works = () => {
           </a>
           <h3 className="text">
             <a
-              href="https://https://mehulkapoor.netlify.app/"
+              href="https://mehulkapoor.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
