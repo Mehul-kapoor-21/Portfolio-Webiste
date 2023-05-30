@@ -1,0 +1,41 @@
+.education-container {
+    margin: 20px;
+    background-color: #fff !important;
+}
+
+.education-list-container{
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+    
+}
+
+.education-desc-container{
+    text-align: center;
+    margin: 20px;
+}
+
+.education-container h1 span{
+    font-size: 2.5rem;
+    color: #fdb448;
+}
+
+.experience{
+    width: 100%;
+}
+
+.vertical-timeline-element--education{
+    /* margin: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    padding: 20px; */
+    width: 100%;
+}
+
+a{
+    color: #333;
+}
+

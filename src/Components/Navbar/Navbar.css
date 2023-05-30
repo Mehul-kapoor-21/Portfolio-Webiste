@@ -1,0 +1,30 @@
+.navbarparent{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.me-auto{
+   
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.me-auto a{
+    border-radius: 4px;
+    transition: all 0.3s ease-in-out;
+    padding-bottom: 5px;
+    color: #333;
+}
+
+.me-auto a:hover{
+    background-color: #fcb212;
+    color: #fff;
+    padding: 5px;
+}
+
+
