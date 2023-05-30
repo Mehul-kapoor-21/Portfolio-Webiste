@@ -79,29 +79,7 @@
     
 }
 
-.circle-1{
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    bottom: 0;
-    margin: 10px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    border-radius: 16px;
-    border-bottom: 10px solid #e08804;
-}
 
-.circle-2{ 
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    bottom: 0;
-    right: 10px;
-    top: 10px;
-    margin: 10px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    border-radius: 16px;
-    
-}
 
 @media (min-width:788px){
     .header-container{

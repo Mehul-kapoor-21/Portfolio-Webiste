@@ -45,7 +45,7 @@ const Header = () => {
             <i class="fa-brands fa-github"></i>
           </a>
           <a
-            href="https://instagram.com/__mehulkapoor__?igshid=MzNlNGNkZWQ4Mg=="
+            href="https://www.instagram.com/__mehulkapoor__/"
             target="_blank"
             rel="noreferrer"
           >
@@ -56,8 +56,7 @@ const Header = () => {
       {/* Image container */}
       <div className="profile-img-container">
         <img src={profileImg} alt=""></img>
-        <div className="circle-1"></div>
-        <div className="circle-2"></div>
+        
       </div>
     </div>
   );

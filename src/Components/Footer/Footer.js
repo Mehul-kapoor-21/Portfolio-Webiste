@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
         {/* copyright */}
         <div className='footer-cpyright'>
-            <p>© 2023 I-Novotek Academy. All Right reserved</p>
+            <p>© 2023 main--mehulkapoor.netlify.app</p>
         </div>
         {/* Social */}
          <ul className='footer-social-media'>
@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
             </li>
             <li>
-            <a href='https://instagram.com/__mehulkapoor__?igshid=MzNlNGNkZWQ4Mg==' target='_blank' rel="noreferrer">
+            <a href='https://www.instagram.com/__mehulkapoor__/' target='_blank' rel="noreferrer">
                     <i className='fa-brands fa-instagram'></i>
                 </a>
             </li>
