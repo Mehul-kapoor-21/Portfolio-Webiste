@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
         {/* copyright */}
         <div className='footer-cpyright'>
-            <p>© 2023 main--mehulkapoor.netlify.app</p>
+            <p>© 2023 mehulkapoor.netlify.app</p>
         </div>
         {/* Social */}
          <ul className='footer-social-media'>
